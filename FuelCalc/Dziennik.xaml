@@ -1,0 +1,112 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="FuelCalc.Dziennik"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="#FF2E2A2A">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <Border BorderBrush="#FFFF5F5F" 
+                BorderThickness="2" 
+                    Height="53" 
+                    RenderTransformOrigin="1.427,0.561" 
+                    HorizontalAlignment="Center" 
+                    Width="176" >
+
+                <TextBlock Text="FuelCalc" 
+                       Style="{StaticResource PhoneTextNormalStyle}" 
+                       Height="62"
+                       FontSize="40"
+                       HorizontalAlignment="Center" VerticalAlignment="Center"
+                       Foreground="#FFFF5F5F"/>
+            </Border>
+            <TextBlock Text="Dziennik wydatków"
+                       Style="{StaticResource PhoneTextNormalStyle}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextAlignment="Center"
+                       Foreground="#FFFF5F5F" Margin="127,0,131,0" Width="210"
+                       />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+
+
+
+            <Button Content="Wróć" 
+                    Name="btnWroc"
+                    Foreground="#FFFF5F5F"
+                    BorderBrush="#FFFF5F5F"
+                    HorizontalAlignment="Left" VerticalAlignment="Top" 
+                    Margin="160,561,0,0" Width="130" Click="btnWroc_Click"
+                    />
+            <Button Content="Dodaj" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top"
+                    Name="btnDodaj" Margin="4,10,0,0" Height="73" Width="148" Click="btnDodaj_Click" BorderBrush="#FFFF5F5F" Foreground="#FFFF5F5F"
+                    />
+
+            <Button Content="Sprawdź" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top"
+                    Name="btnSprawdz" 
+                    Margin="153,10,0,0"
+                    Height="73" Width="148" 
+                    Click="btnSprawdz_Click" Foreground="#FFFF5F5F" BorderBrush="#FFFF5F5F" 
+                    
+                    />
+
+            <Button Content="Pokaż" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top"
+                    Name="btnPokaz" 
+                    Margin="308,10,0,0"
+                    Height="73" Width="148" Click="btnPokaz_Click" Foreground="#FFFF5F5F" BorderBrush="#FFFF5F5F" 
+                    
+                    
+                    />
+            <ListBox Margin="22,88,22,132"  
+                BorderBrush="#FFFF5F5F"
+                BorderThickness="2"
+                Name="lbox"  >
+                <TextBlock Height="auto" 
+                           Width="402" 
+                           FontSize="19"
+                           Foreground="#FFFF5F5F"
+                           Name="txtb"
+                           TextAlignment="Center"
+                           >
+
+
+                </TextBlock>
+            </ListBox>
+            <TextBlock HorizontalAlignment="Left" 
+                       TextWrapping="Wrap" 
+                       Name="tbc"
+                       Text="Całkowity koszt wydatków wynosi : 2500 zł " 
+                       VerticalAlignment="Top" 
+                       Margin="0,526,0,0"
+                       Width="456" Height="auto"
+                       TextAlignment="Center" Foreground="#FFFF5F5F" FontSize="20"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

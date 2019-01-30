@@ -1,0 +1,65 @@
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\ApplicationIcon.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.dll
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.pdb
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\AppManifest.xaml
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\Properties\WMAppManifest.xml
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\Bin\Debug\FuelCalc_Debug_AnyCPU.xap
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\App.g.cs
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\MainPage.g.cs
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\FuelCalc.g.resources
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\FuelCalc.Resources.AppResources.resources
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\FuelCalc.csproj.GenerateResource.Cache
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\FuelCalc.dll
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\FuelCalc.pdb
+R:\Uczelnia\Programiki\Aplikacje Mobilne\Projekty\FuelCalc\FuelCalc\obj\Debug\XapCacheFile.xml
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.dll
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.pdb
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\AppManifest.xaml
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\FuelCalc_Debug_AnyCPU.xap
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\App.g.cs
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\Historia.g.cs
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\MainPage.g.cs
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\Obliczkoszt.g.cs
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\Obliczspalanie.g.cs
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\FuelCalc.g.resources
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\FuelCalc.Resources.AppResources.resources
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\FuelCalc.csproj.GenerateResource.Cache
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\FuelCalc.dll
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\FuelCalc.pdb
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\obj\Debug\XapCacheFile.xml
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\myfile.txt
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.dll
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\FuelCalc.pdb
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\AppManifest.xaml
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\Bin\Debug\FuelCalc_Debug_AnyCPU.xap
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\App.g.cs
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\Historia.g.cs
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\MainPage.g.cs
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\Obliczkoszt.g.cs
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\Obliczspalanie.g.cs
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\FuelCalc.g.resources
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\FuelCalc.Resources.AppResources.resources
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\FuelCalc.csproj.GenerateResource.Cache
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\FuelCalc.dll
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\FuelCalc.pdb
+C:\Users\Cinek\Downloads\FuelCalc\FuelCalc\obj\Debug\XapCacheFile.xml
+C:\Users\Student2\Desktop\FuelCalc\FuelCalc\Bin\Debug\myfile.txt
